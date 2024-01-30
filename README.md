@@ -36,7 +36,7 @@ your dependencies, you need to
 require [`hoa/regex`](https://packagist.org/packages/hoa/regex):
 
 ```sh
-$ composer require hoa/regex '~1.0'
+$ composer require hoa-math-community/regex '~2.0'
 ```
 
 For more installation procedures, please read [the Source
